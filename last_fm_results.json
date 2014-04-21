@@ -1,0 +1,4401 @@
+{
+	"events": {
+		"@attr": {
+			"artist": "Taylor Swift",
+			"festivalsonly": "0",
+			"page": "1",
+			"perPage": "50",
+			"total": "57",
+			"totalPages": "2"
+		},
+		"event": [
+			{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "5",
+			"cancelled": "0",
+			"description": "",
+			"id": "3424313",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Wed, 10 Apr 2013 23:00:01",
+			"tag": "lastfm:event=3424313",
+			"tags": {
+				"tag": [
+					"folk",
+					"acoustic",
+					"pop",
+					"british",
+					"female vocalists",
+					"country",
+					"taylor swift",
+					"soul"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "Taylor Swift",
+			"url": "http://www.last.fm/event/3424313+Taylor+Swift+at+American+Airlines+Arena+on+10+April+2013",
+			"venue":
+				{
+				"id": "8783483",
+				"image": [
+					{
+					"#text": "http://userserve-ak.last.fm/serve/34/151263.jpg",
+					"size": "small"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/64/151263.jpg",
+					"size": "medium"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/126/151263.jpg",
+					"size": "large"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/252/151263.jpg",
+					"size": "extralarge"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/_/151263/American+Airlines+Arena.jpg",
+					"size": "mega"
+				}
+				],
+				"location": {
+					"city": "Miami",
+					"country": "United States",
+					"geo:point": {
+						"geo:lat": "25.781121",
+						"geo:long": "-80.189198"
+					},
+					"postalcode": "33132",
+					"street": "601 Biscayne Blvd."
+				},
+				"name": "American Airlines Arena",
+				"phonenumber": "305-358-5885",
+				"url": "http://www.last.fm/venue/8783483+American+Airlines+Arena",
+				"website": "http://www.aaarena.com/"
+			},
+			"website": ""
+		},
+		{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "4",
+			"cancelled": "0",
+			"description": "<div class=\"bbcode\">Taylor Swift: The Red Tour<br />Taylor Swift, Ed Sheeran<br />Amway Center <br />400 W Church St., Orlando, FL 32801<br />Thu, Apr 11, 2013 07:00 PM</div>",
+			"id": "3453114",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Thu, 11 Apr 2013 19:00:00",
+			"tag": "lastfm:event=3453114",
+			"tags": {
+				"tag": [
+					"folk",
+					"acoustic",
+					"pop",
+					"female vocalists",
+					"british",
+					"country",
+					"taylor swift",
+					"soul"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "Taylor Swift: The Red Tour",
+			"url": "http://www.last.fm/event/3453114+Taylor+Swift:+The+Red+Tour",
+			"venue": {
+				"id": "9126649",
+				"image": [
+					{
+					"#text": "",
+					"size": "small"
+				},
+				{
+					"#text": "",
+					"size": "medium"
+				},
+				{
+					"#text": "",
+					"size": "large"
+				},
+				{
+					"#text": "",
+					"size": "extralarge"
+				},
+				{
+					"#text": "",
+					"size": "mega"
+				}
+				],
+				"location": {
+					"city": "Orlando",
+					"country": "United States",
+					"geo:point": {
+						"geo:lat": "28.540163",
+						"geo:long": "-81.384587"
+					},
+					"postalcode": "32801",
+					"street": "400 West Church Street"
+				},
+				"name": "Amway Center",
+				"phonenumber": "4078492020",
+				"url": "http://www.last.fm/venue/9126649+Amway+Center",
+				"website": ""
+			},
+			"website": "http://www.ticketmaster.com/event/2200497CDCD87878?artistid=1094215&majorcatid=10001&minorcatid=2"
+		},
+		{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "3",
+			"cancelled": "0",
+			"description": "<div class=\"bbcode\">Taylor Swift: The Red Tour<br />Taylor Swift, Ed Sheeran<br />Amway Center <br />400 W Church St., Orlando, FL 32801<br />Fri, Apr 12, 2013 07:00 PM</div>",
+			"id": "3453125",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Fri, 12 Apr 2013 19:00:00",
+			"tag": "lastfm:event=3453125",
+			"tags": {
+				"tag": [
+					"folk",
+					"acoustic",
+					"pop",
+					"female vocalists",
+					"british",
+					"country",
+					"taylor swift",
+					"soul"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "Taylor Swift: The Red Tour",
+			"url": "http://www.last.fm/event/3453125+Taylor+Swift:+The+Red+Tour",
+			"venue": {
+				"id": "9126649",
+				"image": [
+					{
+					"#text": "",
+					"size": "small"
+				},
+				{
+					"#text": "",
+					"size": "medium"
+				},
+				{
+					"#text": "",
+					"size": "large"
+				},
+				{
+					"#text": "",
+					"size": "extralarge"
+				},
+				{
+					"#text": "",
+					"size": "mega"
+				}
+				],
+				"location": {
+					"city": "Orlando",
+					"country": "United States",
+					"geo:point": {
+						"geo:lat": "28.540163",
+						"geo:long": "-81.384587"
+					},
+					"postalcode": "32801",
+					"street": "400 West Church Street"
+				},
+				"name": "Amway Center",
+				"phonenumber": "4078492020",
+				"url": "http://www.last.fm/venue/9126649+Amway+Center",
+				"website": ""
+			},
+			"website": "http://www.ticketmaster.com/event/2200497CDCE0787A?artistid=1094215&majorcatid=10001&minorcatid=2"
+		},
+		{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "3",
+			"cancelled": "0",
+			"description": "",
+			"id": "3424314",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Thu, 18 Apr 2013 23:02:01",
+			"tag": "lastfm:event=3424314",
+			"tags": {
+				"tag": [
+					"folk",
+					"acoustic",
+					"pop",
+					"country",
+					"female vocalists",
+					"british",
+					"taylor swift",
+					"soul"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "Taylor Swift",
+			"url": "http://www.last.fm/event/3424314+Taylor+Swift+at+Philips+Arena+on+18+April+2013",
+			"venue": {
+				"id": "8804206",
+				"image": [
+					{
+					"#text": "http://userserve-ak.last.fm/serve/34/502252.jpg",
+					"size": "small"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/64/502252.jpg",
+					"size": "medium"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/126/502252.jpg",
+					"size": "large"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/252/502252.jpg",
+					"size": "extralarge"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/_/502252/Philips+Arena.jpg",
+					"size": "mega"
+				}
+				],
+				"location": {
+					"city": "Atlanta",
+					"country": "United States",
+					"geo:point": {
+						"geo:lat": "33.759205",
+						"geo:long": "-84.399076"
+					},
+					"postalcode": "30303",
+					"street": "1 Philips Dr"
+				},
+				"name": "Philips Arena",
+				"phonenumber": "404-878-3000",
+				"url": "http://www.last.fm/venue/8804206+Philips+Arena",
+				"website": "http://www.philipsarena.com"
+			},
+			"website": ""
+		},
+		{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "4",
+			"cancelled": "0",
+			"description": "",
+			"id": "3424315",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Fri, 19 Apr 2013 23:03:01",
+			"tag": "lastfm:event=3424315",
+			"tags": {
+				"tag": [
+					"folk",
+					"acoustic",
+					"pop",
+					"country",
+					"female vocalists",
+					"british",
+					"soul",
+					"taylor swift"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "Taylor Swift",
+			"url": "http://www.last.fm/event/3424315+Taylor+Swift+at+Philips+Arena+on+19+April+2013",
+			"venue": {
+				"id": "8804206",
+				"image": [
+					{
+					"#text": "http://userserve-ak.last.fm/serve/34/502252.jpg",
+					"size": "small"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/64/502252.jpg",
+					"size": "medium"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/126/502252.jpg",
+					"size": "large"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/252/502252.jpg",
+					"size": "extralarge"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/_/502252/Philips+Arena.jpg",
+					"size": "mega"
+				}
+				],
+				"location": {
+					"city": "Atlanta",
+					"country": "United States",
+					"geo:point": {
+						"geo:lat": "33.759205",
+						"geo:long": "-84.399076"
+					},
+					"postalcode": "30303",
+					"street": "1 Philips Dr"
+				},
+				"name": "Philips Arena",
+				"phonenumber": "404-878-3000",
+				"url": "http://www.last.fm/venue/8804206+Philips+Arena",
+				"website": "http://www.philipsarena.com"
+			},
+			"website": ""
+		},
+		{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "4",
+			"cancelled": "0",
+			"description": "",
+			"id": "3424339",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Sat, 20 Apr 2013 23:35:01",
+			"tag": "lastfm:event=3424339",
+			"tags": {
+				"tag": [
+					"folk",
+					"pop",
+					"acoustic",
+					"british",
+					"country",
+					"female vocalists",
+					"taylor swift",
+					"soul"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "The Red Tour",
+			"url": "http://www.last.fm/event/3424339+The+Red+Tour",
+			"venue": {
+				"id": "10235845",
+				"image": [
+					{
+					"#text": "",
+					"size": "small"
+				},
+				{
+					"#text": "",
+					"size": "medium"
+				},
+				{
+					"#text": "",
+					"size": "large"
+				},
+				{
+					"#text": "",
+					"size": "extralarge"
+				},
+				{
+					"#text": "",
+					"size": "mega"
+				}
+				],
+				"location": {
+					"city": "Tampa, FL",
+					"country": "United States",
+					"geo:point": {
+						"geo:lat": "27.942753",
+						"geo:long": "-82.451977"
+					},
+					"postalcode": "33602",
+					"street": "401 Channelside Dr"
+				},
+				"name": "Tampa Bay Times Forum",
+				"phonenumber": "",
+				"url": "http://www.last.fm/venue/10235845+Tampa+Bay+Times+Forum",
+				"website": "http://www.tampabaytimesforum.com/"
+			},
+			"website": ""
+		},
+		{
+			"artists": {
+				"artist": [
+					"Taylor Swift",
+					"Ed Sheeran"
+				],
+				"headliner": "Taylor Swift"
+			},
+			"attendance": "2",
+			"cancelled": "0",
+			"description": "",
+			"id": "3459038",
+			"image": [
+				{
+				"#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+				"size": "small"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+				"size": "medium"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+				"size": "large"
+			},
+			{
+				"#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+				"size": "extralarge"
+			}
+			],
+			"reviews": "0",
+			"startDate": "Thu, 25 Apr 2013 05:37:01",
+			"tag": "lastfm:event=3459038",
+			"tags": {
+				"tag": [
+					"folk",
+					"pop",
+					"acoustic",
+					"british",
+					"country",
+					"female vocalists",
+					"soul",
+					"taylor swift"
+				]
+			},
+			"tickets": "\n  ",
+			"title": "Taylor Swift",
+			"url": "http://www.last.fm/event/3459038+Taylor+Swift+at+Quicken+Loans+Arena+on+25+April+2013",
+			"venue": {
+				"id": "8785346",
+				"image": [
+					{
+					"#text": "http://userserve-ak.last.fm/serve/34/33302447.jpg",
+					"size": "small"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/64/33302447.jpg",
+					"size": "medium"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/126/33302447.jpg",
+					"size": "large"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/252/33302447.jpg",
+					"size": "extralarge"
+				},
+				{
+					"#text": "http://userserve-ak.last.fm/serve/_/33302447/Quicken+Loans+Arena+QuickenLoansArenaAwesomeview.jpg",
+					"size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Cleveland",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "41.496942",
+                            "geo:long": "-81.689293"
+                        },
+                        "postalcode": "44115",
+                        "street": "1 Center Court"
+                    },
+                    "name": "Quicken Loans Arena",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8785346+Quicken+Loans+Arena",
+                    "website": "http://www.theqarena.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "2",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459039",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 26 Apr 2013 05:37:01",
+                "tag": "lastfm:event=3459039",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459039+Taylor+Swift+at+Bankers+Life+Fieldhouse+on+26+April+2013",
+                "venue": {
+                    "id": "10235840",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/78732621.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/78732621.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/78732621.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/78732621.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/78732621/Bankers+Life+Fieldhouse+BankersLifeFieldhouse.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Indianapolis, IN",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.764678",
+                            "geo:long": "-86.156064"
+                        },
+                        "postalcode": "46204",
+                        "street": "125 S. Pennsylvania Street"
+                    },
+                    "name": "Bankers Life Fieldhouse",
+                    "phonenumber": "(317) 917-2727",
+                    "url": "http://www.last.fm/venue/10235840+Bankers+Life+Fieldhouse",
+                    "website": "http://www.bankerslifefieldhouse.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459040",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 27 Apr 2013 05:38:01",
+                "tag": "lastfm:event=3459040",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "british",
+                        "country",
+                        "female vocalists",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459040+Taylor+Swift+at+Rupp+Arena+on+27+April+2013",
+                "venue": {
+                    "id": "8787992",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/469063.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/469063.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/469063.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/469063.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/469063/Rupp+Arena.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Lexington",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "38.049229",
+                            "geo:long": "-84.501036"
+                        },
+                        "postalcode": "40507",
+                        "street": "430 West Vine Street"
+                    },
+                    "name": "Rupp Arena",
+                    "phonenumber": "1-859-233-4567",
+                    "url": "http://www.last.fm/venue/8787992+Rupp+Arena",
+                    "website": "http://www.rupparena.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "9",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424341",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 04 May 2013 23:36:01",
+                "tag": "lastfm:event=3424341",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "female vocalists",
+                        "country",
+                        "british",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424341+Taylor+Swift+at+Ford+Field+on+4+May+2013",
+                "venue": {
+                    "id": "8802230",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/341761.png",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/341761.png",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/341761.png",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/341761.png",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/341761/Ford+Field.png",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Detroit",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "42.339803",
+                            "geo:long": "-83.045524"
+                        },
+                        "postalcode": "48226",
+                        "street": "2000 Brush Street"
+                    },
+                    "name": "Ford Field",
+                    "phonenumber": "+1 313-262-2000",
+                    "url": "http://www.last.fm/venue/8802230+Ford+Field",
+                    "website": "http://www.detroitlions.com/ford-field/index.html"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459041",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Tue, 07 May 2013 05:39:01",
+                "tag": "lastfm:event=3459041",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459041+Taylor+Swift+at+KFC+Yum!+Center+on+7+May+2013",
+                "venue": {
+                    "id": "10227008",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/70502446.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/70502446.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/70502446.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/70502446.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/70502446/KFC+Yum+Center+kfcyum.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Louisville, KY",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "38.256531",
+                            "geo:long": "-85.754148"
+                        },
+                        "postalcode": "40202",
+                        "street": "1 Arena Plaza"
+                    },
+                    "name": "KFC Yum! Center",
+                    "phonenumber": "(502) 690-9000",
+                    "url": "http://www.last.fm/venue/10227008+KFC+Yum!+Center",
+                    "website": "http://www.kfcyumcenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424404",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Wed, 08 May 2013 00:49:01",
+                "tag": "lastfm:event=3424404",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "country",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424404+Taylor+Swift+at+Nationwide+Arena+on+8+May+2013",
+                "venue": {
+                    "id": "8784707",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/572308.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/572308.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/572308.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/572308.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/572308/Nationwide+Arena.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Columbus",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.969406",
+                            "geo:long": "-83.006206"
+                        },
+                        "postalcode": "43215",
+                        "street": "200 West Nationwide Blvd."
+                    },
+                    "name": "Nationwide Arena",
+                    "phonenumber": "614-246-2000",
+                    "url": "http://www.last.fm/venue/8784707+Nationwide+Arena",
+                    "website": "http://www.nationwidearena.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424407",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 11 May 2013 00:50:01",
+                "tag": "lastfm:event=3424407",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424407+Taylor+Swift+at+Verizon+Center+on+11+May+2013",
+                "venue": {
+                    "id": "8785557",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/42338.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/42338.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/42338.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/42338.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/42338/Verizon+Center.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Washington DC",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "38.898047",
+                            "geo:long": "-77.020922"
+                        },
+                        "postalcode": "20004",
+                        "street": "601 F Street, NW"
+                    },
+                    "name": "Verizon Center",
+                    "phonenumber": "(202) 628-3200",
+                    "url": "http://www.last.fm/venue/8785557+Verizon+Center",
+                    "website": "http://www.verizoncenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424409",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sun, 12 May 2013 00:51:01",
+                "tag": "lastfm:event=3424409",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424409+Taylor+Swift+at+Verizon+Center+on+12+May+2013",
+                "venue": {
+                    "id": "8785557",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/42338.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/42338.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/42338.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/42338.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/42338/Verizon+Center.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Washington DC",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "38.898047",
+                            "geo:long": "-77.020922"
+                        },
+                        "postalcode": "20004",
+                        "street": "601 F Street, NW"
+                    },
+                    "name": "Verizon Center",
+                    "phonenumber": "(202) 628-3200",
+                    "url": "http://www.last.fm/venue/8785557+Verizon+Center",
+                    "website": "http://www.verizoncenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459046",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Thu, 16 May 2013 05:41:01",
+                "tag": "lastfm:event=3459046",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "british",
+                        "country",
+                        "female vocalists",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459046+Taylor+Swift+at+Toyota+Center+on+16+May+2013",
+                "venue": {
+                    "id": "8782020",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/45305243.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/45305243.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/45305243.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/45305243.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/45305243/Toyota+Center+Houston_Toyota_Center_.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Houston",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "29.750958",
+                            "geo:long": "-95.362017"
+                        },
+                        "postalcode": "77002",
+                        "street": "1510 Polk Street"
+                    },
+                    "name": "Toyota Center",
+                    "phonenumber": "1-866-446-8849",
+                    "url": "http://www.last.fm/venue/8782020+Toyota+Center",
+                    "website": "http://www.toyotacentertix.com"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "4",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424202",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Wed, 22 May 2013 19:00:00",
+                "tag": "lastfm:event=3424202",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "british",
+                        "female vocalists",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "The RED Tour",
+                "url": "http://www.last.fm/event/3424202+The+RED+Tour",
+                "venue": {
+                    "id": "8811856",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/10608523.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/10608523.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/10608523.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/10608523.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/10608523/ATT+Center+800pxAttcenter.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "San Antonio",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "29.42703",
+                            "geo:long": "-98.43672"
+                        },
+                        "postalcode": "78219",
+                        "street": "1 AT&T Center Pkwy"
+                    },
+                    "name": "AT&T Center",
+                    "phonenumber": "210-444-5000",
+                    "url": "http://www.last.fm/venue/8811856+AT%2526T+Center",
+                    "website": "http://www.attcenter.com"
+                },
+                "website": "http://www.attcenter.com"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "6",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424412",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 25 May 2013 00:52:01",
+                "tag": "lastfm:event=3424412",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424412+Taylor+Swift+at+Dallas+Cowboys+Stadium+on+25+May+2013",
+                "venue": {
+                    "id": "10282454",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/83913089.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/83913089.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/83913089.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/83913089.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/83913089/Dallas+Cowboys+Stadium+dallas.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Arlington, TX",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "32.749258",
+                            "geo:long": "-97.096739"
+                        },
+                        "postalcode": "76011",
+                        "street": "1 Legends Way"
+                    },
+                    "name": "Dallas Cowboys Stadium",
+                    "phonenumber": "817-892-5000",
+                    "url": "http://www.last.fm/venue/10282454+Dallas+Cowboys+Stadium",
+                    "website": "http://stadium.dallascowboys.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "2",
+                "cancelled": "0",
+                "description": "",
+                "id": "3460184",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Tue, 28 May 2013 19:00:00",
+                "tag": "lastfm:event=3460184",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3460184+Taylor+Swift+at+Jobing.com+Arena+on+28+May+2013",
+                "venue": {
+                    "id": "8896710",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/17540547.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/17540547.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/17540547.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/17540547.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/17540547/Jobingcom+Arena+jobing.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Glendale, AZ",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "33.53158",
+                            "geo:long": "-112.261832"
+                        },
+                        "postalcode": "85305",
+                        "street": "9400 W. Maryland Ave."
+                    },
+                    "name": "Jobing.com Arena",
+                    "phonenumber": "623.772.3200",
+                    "url": "http://www.last.fm/venue/8896710+Jobing.com+Arena",
+                    "website": "http://www.jobingarena.com/"
+                },
+                "website": "http://www.goodseattickets.com/Ed-Sheeran"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "id": "3460185",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Wed, 29 May 2013 19:00:00",
+                "tag": "lastfm:event=3460185",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "british",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3460185+Taylor+Swift+at+Jobing.com+Arena+on+29+May+2013",
+                "venue": {
+                    "id": "8896710",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/17540547.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/17540547.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/17540547.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/17540547.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/17540547/Jobingcom+Arena+jobing.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Glendale, AZ",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "33.53158",
+                            "geo:long": "-112.261832"
+                        },
+                        "postalcode": "85305",
+                        "street": "9400 W. Maryland Ave."
+                    },
+                    "name": "Jobing.com Arena",
+                    "phonenumber": "623.772.3200",
+                    "url": "http://www.last.fm/venue/8896710+Jobing.com+Arena",
+                    "website": "http://www.jobingarena.com/"
+                },
+                "website": "http://www.goodseattickets.com/Ed-Sheeran"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "<div class=\"bbcode\">Sold Out</div>",
+                "id": "3459047",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 01 Jun 2013 19:00:00",
+                "tag": "lastfm:event=3459047",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "country",
+                        "british",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459047+Taylor+Swift+at+EnergySolutions+Arena+on+1+June+2013",
+                "venue": {
+                    "id": "8803893",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/605474.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/605474.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/605474.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/605474.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/605474/EnergySolutions+Arena.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Salt Lake City",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "40.767798",
+                            "geo:long": "-111.901096"
+                        },
+                        "postalcode": "84101",
+                        "street": "301 West South Temple"
+                    },
+                    "name": "EnergySolutions Arena",
+                    "phonenumber": "801-325-2000",
+                    "url": "http://www.last.fm/venue/8803893+EnergySolutions+Arena",
+                    "website": "http://www.energysolutionsarena.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459048",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sun, 02 Jun 2013 05:43:01",
+                "tag": "lastfm:event=3459048",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459048+Taylor+Swift+at+Pepsi+Center+on+2+June+2013",
+                "venue": {
+                    "id": "8782017",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/2727304.gif",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/2727304.gif",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/2727304.gif",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/2727304.gif",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/2727304/Pepsi+Center+The.gif",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Denver",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.74799",
+                            "geo:long": "-105.007367"
+                        },
+                        "postalcode": "80204",
+                        "street": "1000 Chopper Circle"
+                    },
+                    "name": "Pepsi Center",
+                    "phonenumber": "(303) 405-1111",
+                    "url": "http://www.last.fm/venue/8782017+Pepsi+Center",
+                    "website": "http://www.pepsicenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Gary Allan",
+                        "Kelly Clarkson",
+                        "Taylor Swift",
+                        "Carrie Underwood",
+                        "Lady Antebellum",
+                        "Brad Paisley",
+                        "Keith Urban",
+                        "Blake Shelton",
+                        "Dierks Bentley",
+                        "Miranda Lambert",
+                        "Luke Bryan",
+                        "Eric Church",
+                        "Zac Brown Band",
+                        "Jake Owen",
+                        "The Band Perry",
+                        "Little Big Town",
+                        "Hunter Hayes",
+                        "Florida Georgia Line"
+                    ],
+                    "headliner": "Gary Allan"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "endDate": "Sun, 09 Jun 2013 12:35:01",
+                "id": "3549492",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/88033965.jpg",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/88033965.jpg",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/88033965.jpg",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/88033965.jpg",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Thu, 06 Jun 2013 12:35:01",
+                "tag": "lastfm:event=3549492",
+                "tags": {
+                    "tag": "country"
+                },
+                "tickets": "\n  ",
+                "title": "CMA Music Festival",
+                "url": "http://www.last.fm/festival/3549492+CMA+Music+Festival",
+                "venue": {
+                    "id": "8909548",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Nashville , Tennessee",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "36.166208",
+                            "geo:long": "-86.771413"
+                        },
+                        "postalcode": "",
+                        "street": ""
+                    },
+                    "name": "LP Field",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8909548+LP+Field",
+                    "website": ""
+                },
+                "website": "http://www.cmaworld.com/cma-music-festival/2013/home"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "16",
+                "cancelled": "0",
+                "description": "<div class=\"bbcode\">6-Time Grammy Winner, Taylor Swift, is returning to Toronto, this time taking Rogers Centre with her North American RED TOUR on Friday, June 14 and Saturday, June 15, 2013. The RED TOUR, featuring special guest, Ed Sheeran, will highlight songs from Swift's brand new album, RED, including the hit song &quot;We Are Never Ever Getting Back Together.&quot;<br /><br />Onsale to General Public<br /><br />Start: Fri, 11/23/12 10:00 AM EST<br />Front Of The Line by American Express<br />For Front Of The Line Tickets, purchase must be charged in full to an American Express Card. Subject to availability and to event and ticketing agent terms, conditions and fees.<br /><br />Start: Tue, 11/20/12 10:00 AM EST<br />End: Thu, 11/22/12 10:00 PM EST<br />TaylorSwift.com &amp; RED Presales<br /><br />Start: Tue, 11/20/12 10:00 AM EST<br />End: Thu, 11/22/12 10:00 PM EST<br />VIP Package Presale<br /><br />Start: Tue, 11/20/12 10:00 AM EST<br />End: Thu, 11/22/12 10:00 PM EST<br />VIP Package<br /><br />Start: Fri, 11/23/12 10:00 AM EST<br />End: Fri, 05/24/13 05:00 PM EDT</div>",
+                "id": "3440417",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 14 Jun 2013 18:30:00",
+                "tag": "lastfm:event=3440417",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3440417+Taylor+Swift+at+Rogers+Centre+on+14+June+2013",
+                "venue": {
+                    "id": "8795528",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/11951519.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/11951519.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/11951519.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/11951519.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/11951519/Rogers+Centre+ev_filmshoots_view2.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Toronto",
+                        "country": "Canada",
+                        "geo:point": {
+                            "geo:lat": "43.640542",
+                            "geo:long": "-79.388911"
+                        },
+                        "postalcode": "M5V 1J3",
+                        "street": "1 Blue Jays Way"
+                    },
+                    "name": "Rogers Centre",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8795528+Rogers+Centre",
+                    "website": "http://www.rogerscentre.com"
+                },
+                "website": "http://www.rogerscentre.com/events/article.jsp?content=20121026_113904_2028"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "27",
+                "cancelled": "0",
+                "description": "<div class=\"bbcode\"><a href=\"http://www.ticketmaster.ca/event/10004961DBAACD8C\" rel=\"nofollow\">http://www.ticketmaster.ca/event/10004961DBAACD8C</a><br /><br />CA $41.95 (CA $29.50 Ticket + CA $12.45 Fees)<br />CA $124.75 (CA $109.50 Ticket + CA $15.25 Fees)<br /><br />Onsale to General Public<br />Start: Fri, 11/16/12 10:00 AM EST<br /><br />American Express<br />Start: Tue, 11/13/12 10:00 AM EST<br />End: Thu, 11/15/12 10:00 PM EST<br /><br />TaylorSwift.com &amp; RED Presales<br />Start: Tue, 11/13/12 10:00 AM EST<br />End: Thu, 11/15/12 10:00 PM EST<br /><br />VIP Package Presale<br />Start: Tue, 11/13/12 10:00 AM EST<br />End: Thu, 11/15/12 10:00 PM EST<br /><br />VIP Package<br />Start: Fri, 11/16/12 10:00 AM EST<br />End: Mon, 05/27/13 05:00 PM EDT</div>",
+                "id": "3424066",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 15 Jun 2013 18:30:00",
+                "tag": "lastfm:event=3424066",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424066+Taylor+Swift+at+Rogers+Centre+on+15+June+2013",
+                "venue": {
+                    "id": "8795528",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/11951519.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/11951519.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/11951519.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/11951519.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/11951519/Rogers+Centre+ev_filmshoots_view2.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Toronto",
+                        "country": "Canada",
+                        "geo:point": {
+                            "geo:lat": "43.640542",
+                            "geo:long": "-79.388911"
+                        },
+                        "postalcode": "M5V 1J3",
+                        "street": "1 Blue Jays Way"
+                    },
+                    "name": "Rogers Centre",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8795528+Rogers+Centre",
+                    "website": "http://www.rogerscentre.com"
+                },
+                "website": "http://www.rogerscentre.com/events/article.jsp?content=20121026_113904_2028"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "9",
+                "cancelled": "0",
+                "description": "",
+                "id": "3423842",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 22 Jun 2013 18:30:00",
+                "tag": "lastfm:event=3423842",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "RED Tour 2013",
+                "url": "http://www.last.fm/event/3423842+RED+Tour+2013",
+                "venue": {
+                    "id": "10282458",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Winnipeg",
+                        "country": "Canada",
+                        "geo:point": {
+                            "geo:lat": "49.805339",
+                            "geo:long": "-97.140615"
+                        },
+                        "postalcode": "R3T 1Z2",
+                        "street": "University of Manitoba"
+                    },
+                    "name": "Investors Group Field",
+                    "phonenumber": "(204) 480-1048",
+                    "url": "http://www.last.fm/venue/10282458+Investors+Group+Field",
+                    "website": "http://www.investorsgroupfield.ca/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "3",
+                "cancelled": "0",
+                "description": "",
+                "id": "3516251",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Tue, 25 Jun 2013 17:32:01",
+                "tag": "lastfm:event=3516251",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "british",
+                        "country",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "The RED Tour",
+                "url": "http://www.last.fm/event/3516251+The+RED+Tour",
+                "venue": {
+                    "id": "8781553",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/28314971.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/28314971.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/28314971.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/28314971.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/28314971/Rexall+Place+IMG_3308.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Edmonton",
+                        "country": "Canada",
+                        "geo:point": {
+                            "geo:lat": "53.570466",
+                            "geo:long": "-113.455444"
+                        },
+                        "postalcode": "T5B 4M9",
+                        "street": "7424 118 Avenue Nw"
+                    },
+                    "name": "Rexall Place",
+                    "phonenumber": "(780) 471-7210",
+                    "url": "http://www.last.fm/venue/8781553+Rexall+Place",
+                    "website": "http://www.rexall-place.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3516252",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Wed, 26 Jun 2013 17:33:01",
+                "tag": "lastfm:event=3516252",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "The RED Tour",
+                "url": "http://www.last.fm/event/3516252+The+RED+Tour",
+                "venue": {
+                    "id": "8781553",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/28314971.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/28314971.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/28314971.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/28314971.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/28314971/Rexall+Place+IMG_3308.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Edmonton",
+                        "country": "Canada",
+                        "geo:point": {
+                            "geo:lat": "53.570466",
+                            "geo:long": "-113.455444"
+                        },
+                        "postalcode": "T5B 4M9",
+                        "street": "7424 118 Avenue Nw"
+                    },
+                    "name": "Rexall Place",
+                    "phonenumber": "(780) 471-7210",
+                    "url": "http://www.last.fm/venue/8781553+Rexall+Place",
+                    "website": "http://www.rexall-place.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "18",
+                "cancelled": "0",
+                "description": "",
+                "id": "3426006",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 29 Jun 2013 00:28:01",
+                "tag": "lastfm:event=3426006",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "british",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3426006+Taylor+Swift+at+BC+Place+on+29+June+2013",
+                "venue": {
+                    "id": "8779485",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/37933837.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/37933837.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/37933837.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/37933837.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/37933837/BC+Place++2.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Vancouver",
+                        "country": "Canada",
+                        "geo:point": {
+                            "geo:lat": "49.26815",
+                            "geo:long": "-123.102585"
+                        },
+                        "postalcode": "",
+                        "street": "777 Pacific Boulevard Vancouver, BC V6B 4Y8"
+                    },
+                    "name": "BC Place",
+                    "phonenumber": "(604) 661-7373",
+                    "url": "http://www.last.fm/venue/8779485+BC+Place",
+                    "website": "http://www.bcplacestadium.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "4",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424415",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 06 Jul 2013 00:54:01",
+                "tag": "lastfm:event=3424415",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "country",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424415+Taylor+Swift+at+Heinz+Field+on+6+July+2013",
+                "venue": {
+                    "id": "8929256",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/33548069.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/33548069.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/33548069.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/33548069.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/33548069/Heinz+Field+wiki.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Pittsburgh",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "40.446683",
+                            "geo:long": "-80.015673"
+                        },
+                        "postalcode": "15212",
+                        "street": "100 Art Rooney Ave"
+                    },
+                    "name": "Heinz Field",
+                    "phonenumber": "(412) 323-1200",
+                    "url": "http://www.last.fm/venue/8929256+Heinz+Field",
+                    "website": "http://www.steelers.com/heinzfield/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "6",
+                "cancelled": "0",
+                "description": "",
+                "id": "3495734",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 13 Jul 2013 23:38:01",
+                "tag": "lastfm:event=3495734",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Red Tour",
+                "url": "http://www.last.fm/event/3495734+Red+Tour",
+                "venue": {
+                    "id": "10252981",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "East Rutherford, NJ",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "40.814209",
+                            "geo:long": "-74.07369"
+                        },
+                        "postalcode": "07073",
+                        "street": "1 MetLife Stadium Dr"
+                    },
+                    "name": "MetLife Stadium",
+                    "phonenumber": "(201) 559-1515",
+                    "url": "http://www.last.fm/venue/10252981+MetLife+Stadium",
+                    "website": "http://www.metlifestadium.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "7",
+                "cancelled": "0",
+                "description": "",
+                "id": "3455571",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 19 Jul 2013 18:30:00",
+                "tag": "lastfm:event=3455571",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "The Red Tour",
+                "url": "http://www.last.fm/event/3455571+The+Red+Tour",
+                "venue": {
+                    "id": "8804172",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Philadelphia",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.900518",
+                            "geo:long": "-75.167255"
+                        },
+                        "postalcode": "19148",
+                        "street": "1020 Pattison Ave."
+                    },
+                    "name": "Lincoln Financial Field",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8804172+Lincoln+Financial+Field",
+                    "website": ""
+                },
+                "website": "http://www.ticketmaster.com/event/02004975A23D431A?artistid=1094215&majorcatid=10001&minorcatid=2"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "6",
+                "cancelled": "0",
+                "description": "",
+                "id": "3455567",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 20 Jul 2013 18:30:00",
+                "tag": "lastfm:event=3455567",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "The Red Tour",
+                "url": "http://www.last.fm/event/3455567+The+Red+Tour",
+                "venue": {
+                    "id": "8804172",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Philadelphia",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.900518",
+                            "geo:long": "-75.167255"
+                        },
+                        "postalcode": "19148",
+                        "street": "1020 Pattison Ave."
+                    },
+                    "name": "Lincoln Financial Field",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8804172+Lincoln+Financial+Field",
+                    "website": ""
+                },
+                "website": "http://www.lincolnfinancialfield.com"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "2",
+                "cancelled": "0",
+                "description": "",
+                "id": "3437995",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 26 Jul 2013 18:30:00",
+                "tag": "lastfm:event=3437995",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "The Red Tour",
+                "url": "http://www.last.fm/event/3437995+The+Red+Tour",
+                "venue": {
+                    "id": "8950387",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/39808157.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/39808157.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/39808157.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/39808157.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/39808157/Gillette+Stadium+Gillette_Dec_08.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Foxborough",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "42.09085",
+                            "geo:long": "-71.264319"
+                        },
+                        "postalcode": "02035",
+                        "street": "1 Patriot Place"
+                    },
+                    "name": "Gillette Stadium",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8950387+Gillette+Stadium",
+                    "website": "http://www.gillettestadium.com"
+                },
+                "website": "http://www.livenation.com/events/183551/jul-26-2013/taylor-swift-the-red-tour?ui=event-row"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "11",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424416",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 27 Jul 2013 18:30:00",
+                "tag": "lastfm:event=3424416",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "The Red Tour",
+                "url": "http://www.last.fm/event/3424416+The+Red+Tour",
+                "venue": {
+                    "id": "8950387",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/39808157.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/39808157.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/39808157.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/39808157.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/39808157/Gillette+Stadium+Gillette_Dec_08.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Foxborough",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "42.09085",
+                            "geo:long": "-71.264319"
+                        },
+                        "postalcode": "02035",
+                        "street": "1 Patriot Place"
+                    },
+                    "name": "Gillette Stadium",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8950387+Gillette+Stadium",
+                    "website": "http://www.gillettestadium.com"
+                },
+                "website": "http://www.livenation.com/events/182699/jul-27-2013/taylor-swift-the-red-tour?ui=event-row"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459049",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Thu, 01 Aug 2013 05:46:01",
+                "tag": "lastfm:event=3459049",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459049+Taylor+Swift+at+Wells+Fargo+Arena+on+1+August+2013",
+                "venue": {
+                    "id": "8792422",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/37566715.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/37566715.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/37566715.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/37566715.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/37566715/Wells+Fargo+Arena.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Des Moines",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "41.592634",
+                            "geo:long": "-93.620982"
+                        },
+                        "postalcode": "50309",
+                        "street": "730 3rd Street"
+                    },
+                    "name": "Wells Fargo Arena",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8792422+Wells+Fargo+Arena",
+                    "website": "http://www.iowaeventscenter.com/arena_info_wells_fargo.aspx"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "5",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424296",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 02 Aug 2013 22:39:01",
+                "tag": "lastfm:event=3424296",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "british",
+                        "country",
+                        "female vocalists",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424296+Taylor+Swift+at+Sprint+Center+on+2+August+2013",
+                "venue": {
+                    "id": "8858654",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/3542169.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/3542169.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/3542169.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/3542169.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/3542169/Sprint+Center.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Kansas City MO",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.097154",
+                            "geo:long": "-94.581009"
+                        },
+                        "postalcode": "64106",
+                        "street": "1407 Grand Boulevard"
+                    },
+                    "name": "Sprint Center",
+                    "phonenumber": "816.949.7050",
+                    "url": "http://www.last.fm/venue/8858654+Sprint+Center",
+                    "website": "http://sprintcenter.com"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424300",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 03 Aug 2013 22:40:01",
+                "tag": "lastfm:event=3424300",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "country",
+                        "british",
+                        "female vocalists",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424300+Taylor+Swift+at+Sprint+Center+on+3+August+2013",
+                "venue": {
+                    "id": "8858654",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/3542169.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/3542169.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/3542169.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/3542169.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/3542169/Sprint+Center.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Kansas City MO",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "39.097154",
+                            "geo:long": "-94.581009"
+                        },
+                        "postalcode": "64106",
+                        "street": "1407 Grand Boulevard"
+                    },
+                    "name": "Sprint Center",
+                    "phonenumber": "816.949.7050",
+                    "url": "http://www.last.fm/venue/8858654+Sprint+Center",
+                    "website": "http://sprintcenter.com"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "2",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459050",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Tue, 06 Aug 2013 05:47:01",
+                "tag": "lastfm:event=3459050",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "british",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459050+Taylor+Swift+at+INTRUST+Bank+Arena+on+6+August+2013",
+                "venue": {
+                    "id": "9080902",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Wichita",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "37.682432",
+                            "geo:long": "-97.332916"
+                        },
+                        "postalcode": "67202",
+                        "street": "500 East Waterman"
+                    },
+                    "name": "INTRUST Bank Arena",
+                    "phonenumber": "(316)660-1013",
+                    "url": "http://www.last.fm/venue/9080902+INTRUST+Bank+Arena",
+                    "website": "http://www.intrustbankarena.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459051",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Wed, 07 Aug 2013 05:48:01",
+                "tag": "lastfm:event=3459051",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "country",
+                        "british",
+                        "female vocalists",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459051+Taylor+Swift+at+BOK+Center+on+7+August+2013",
+                "venue": {
+                    "id": "8956282",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/9602209.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/9602209.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/9602209.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/9602209.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/9602209/BOK+Center+800pxBokcenter20080810.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Tulsa OK",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "36.153145",
+                            "geo:long": "-95.995134"
+                        },
+                        "postalcode": "74103",
+                        "street": "200 S Denver Ave"
+                    },
+                    "name": "BOK Center",
+                    "phonenumber": "918.596.7177",
+                    "url": "http://www.last.fm/venue/8956282+BOK+Center",
+                    "website": "http://www.bokcenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "13",
+                "cancelled": "0",
+                "description": "<div class=\"bbcode\">Soldier Field <br />1410 S. Museum Campus Drive, Chicago, IL 60605<br />Sat, Aug 10, 2013 06:30 PM<br /><br /><a href=\"http://www.last.fm/music/Taylor+Swift\" class=\"bbcode_artist\">Taylor Swift</a> &amp; <a href=\"http://www.last.fm/music/Ed+Sheeran\" class=\"bbcode_artist\">Ed Sheeran</a></div>",
+                "id": "3437526",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 10 Aug 2013 18:30:00",
+                "tag": "lastfm:event=3437526",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift - The Red Tour",
+                "url": "http://www.last.fm/event/3437526+Taylor+Swift+-+The+Red+Tour",
+                "venue": {
+                    "id": "8787296",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/6020667.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/6020667.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/6020667.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/6020667.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/6020667/Soldier+Field+5103127.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Chicago",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "41.861914",
+                            "geo:long": "-87.614821"
+                        },
+                        "postalcode": "60605",
+                        "street": "1410 S. Museum Campus Dr"
+                    },
+                    "name": "Soldier Field",
+                    "phonenumber": "(312) 235-7000",
+                    "url": "http://www.last.fm/venue/8787296+Soldier+Field",
+                    "website": "http://www.soldierfield.net/"
+                },
+                "website": "http://www.ticketmaster.com/event/04004957FA595D72?artistid=1094215&majorcatid=10001&minorcatid=2"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "4",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424418",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Thu, 15 Aug 2013 00:57:01",
+                "tag": "lastfm:event=3424418",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424418+Taylor+Swift+at+Valley+View+Casino+Center+on+15+August+2013",
+                "venue": {
+                    "id": "10244361",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/75020456.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/75020456.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/75020456.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/75020456.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/75020456/Valley+View+Casino+Center+valleyviewcasinocenter_0.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "San Diego",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "32.755077",
+                            "geo:long": "-117.211794"
+                        },
+                        "postalcode": "92110",
+                        "street": "3500 Sports Arena Boulevard"
+                    },
+                    "name": "Valley View Casino Center",
+                    "phonenumber": "(619) 224-4171",
+                    "url": "http://www.last.fm/venue/10244361+Valley+View+Casino+Center",
+                    "website": "http://www.valleyviewcasinocenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "5",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424419",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Mon, 19 Aug 2013 00:58:01",
+                "tag": "lastfm:event=3424419",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "country",
+                        "british",
+                        "female vocalists",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424419+Taylor+Swift+at+Staples+Center+on+19+August+2013",
+                "venue": {
+                    "id": "8780552",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/80632051.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/80632051.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/80632051.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/80632051.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/80632051/Staples+Center++Exterior.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Los Angeles",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "34.043634",
+                            "geo:long": "-118.267385"
+                        },
+                        "postalcode": "90015",
+                        "street": "1111 S. Figueroa St"
+                    },
+                    "name": "Staples Center",
+                    "phonenumber": "(213) 742-7340",
+                    "url": "http://www.last.fm/venue/8780552+Staples+Center",
+                    "website": "http://www.staplescenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424420",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Tue, 20 Aug 2013 00:58:01",
+                "tag": "lastfm:event=3424420",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424420+Taylor+Swift+at+Staples+Center+on+20+August+2013",
+                "venue": {
+                    "id": "8780552",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/80632051.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/80632051.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/80632051.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/80632051.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/80632051/Staples+Center++Exterior.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Los Angeles",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "34.043634",
+                            "geo:long": "-118.267385"
+                        },
+                        "postalcode": "90015",
+                        "street": "1111 S. Figueroa St"
+                    },
+                    "name": "Staples Center",
+                    "phonenumber": "(213) 742-7340",
+                    "url": "http://www.last.fm/venue/8780552+Staples+Center",
+                    "website": "http://www.staplescenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459052",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 23 Aug 2013 05:49:01",
+                "tag": "lastfm:event=3459052",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459052+Taylor+Swift+at+Staples+Center+on+23+August+2013",
+                "venue": {
+                    "id": "8780552",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/80632051.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/80632051.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/80632051.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/80632051.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/80632051/Staples+Center++Exterior.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Los Angeles",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "34.043634",
+                            "geo:long": "-118.267385"
+                        },
+                        "postalcode": "90015",
+                        "street": "1111 S. Figueroa St"
+                    },
+                    "name": "Staples Center",
+                    "phonenumber": "(213) 742-7340",
+                    "url": "http://www.last.fm/venue/8780552+Staples+Center",
+                    "website": "http://www.staplescenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran",
+                        "Austin Mahone"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "2",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459053",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 24 Aug 2013 05:49:01",
+                "tag": "lastfm:event=3459053",
+                "tags": {
+                    "tag": "pop"
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459053+Taylor+Swift+at+Staples+Center+on+24+August+2013",
+                "venue": {
+                    "id": "8780552",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/80632051.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/80632051.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/80632051.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/80632051.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/80632051/Staples+Center++Exterior.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Los Angeles",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "34.043634",
+                            "geo:long": "-118.267385"
+                        },
+                        "postalcode": "90015",
+                        "street": "1111 S. Figueroa St"
+                    },
+                    "name": "Staples Center",
+                    "phonenumber": "(213) 742-7340",
+                    "url": "http://www.last.fm/venue/8780552+Staples+Center",
+                    "website": "http://www.staplescenter.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3424421",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Tue, 27 Aug 2013 01:00:01",
+                "tag": "lastfm:event=3424421",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "pop",
+                        "acoustic",
+                        "british",
+                        "female vocalists",
+                        "country",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3424421+Taylor+Swift+at+Sleep+Train+Arena+on+27+August+2013",
+                "venue": {
+                    "id": "10282460",
+                    "image": [
+                        {
+                            "#text": "",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Sacramento",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "38.648005",
+                            "geo:long": "-121.517077"
+                        },
+                        "postalcode": "95834",
+                        "street": "1 Sports Pkwy"
+                    },
+                    "name": "Sleep Train Arena",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/10282460+Sleep+Train+Arena",
+                    "website": "http://www.sleeptrainarena.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "10",
+                "cancelled": "0",
+                "description": "",
+                "id": "3426004",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 30 Aug 2013 00:25:01",
+                "tag": "lastfm:event=3426004",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "country",
+                        "british",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3426004+Taylor+Swift+at+The+Rose+Garden+Arena+on+30+August+2013",
+                "venue": {
+                    "id": "8790718",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/2986270.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/2986270.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/2986270.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/2986270.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/_/2986270/The+Rose+Garden+Arena+RoseGardenArena.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Portland",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "45.531847",
+                            "geo:long": "-122.666779"
+                        },
+                        "postalcode": "97227",
+                        "street": "1 Center Court"
+                    },
+                    "name": "The Rose Garden Arena",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8790718+The+Rose+Garden+Arena",
+                    "website": "http://www.rosequarter.com/"
+                },
+                "website": "http://taylorswift.com/news/106431"
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "7",
+                "cancelled": "0",
+                "description": "<div class=\"bbcode\"><a href=\"http://www.last.fm/music/Taylor+Swift\" class=\"bbcode_artist\">Taylor Swift</a> <a href=\"http://www.last.fm/music/Ed+Sheeran\" class=\"bbcode_artist\">Ed Sheeran</a></div>",
+                "id": "3454845",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 31 Aug 2013 11:11:01",
+                "tag": "lastfm:event=3454845",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3454845+Taylor+Swift+at+Tacoma+Dome+on+31+August+2013",
+                "venue": {
+                    "id": "8783382",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/578379.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/578379.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/578379.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/578379.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/578379/Tacoma+Dome.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Tacoma",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "47.23634",
+                            "geo:long": "-122.426834"
+                        },
+                        "postalcode": "98421",
+                        "street": "2727 East D Street"
+                    },
+                    "name": "Tacoma Dome",
+                    "phonenumber": "253-272-3663",
+                    "url": "http://www.last.fm/venue/8783382+Tacoma+Dome",
+                    "website": "http://www.tacomadome.org"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459055",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Fri, 06 Sep 2013 05:51:01",
+                "tag": "lastfm:event=3459055",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "country",
+                        "female vocalists",
+                        "british",
+                        "taylor swift",
+                        "soul"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459055+Taylor+Swift+at+Fargodome+on+6+September+2013",
+                "venue": {
+                    "id": "8803615",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/37566057.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/37566057.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/37566057.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/37566057.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/37566057/Fargodome.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Fargo,",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "46.902811",
+                            "geo:long": "-96.798019"
+                        },
+                        "postalcode": "58102",
+                        "street": "1800 N. University Dr."
+                    },
+                    "name": "Fargodome",
+                    "phonenumber": "",
+                    "url": "http://www.last.fm/venue/8803615+Fargodome",
+                    "website": "http://www.fargodome.com/"
+                },
+                "website": ""
+            },
+            {
+                "artists": {
+                    "artist": [
+                        "Taylor Swift",
+                        "Ed Sheeran"
+                    ],
+                    "headliner": "Taylor Swift"
+                },
+                "attendance": "1",
+                "cancelled": "0",
+                "description": "",
+                "id": "3459056",
+                "image": [
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/34/74333858.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/64/74333858.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/126/74333858.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "http://userserve-ak.last.fm/serve/252/74333858.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "reviews": "0",
+                "startDate": "Sat, 07 Sep 2013 05:52:01",
+                "tag": "lastfm:event=3459056",
+                "tags": {
+                    "tag": [
+                        "folk",
+                        "acoustic",
+                        "pop",
+                        "female vocalists",
+                        "country",
+                        "british",
+                        "soul",
+                        "taylor swift"
+                    ]
+                },
+                "tickets": "\n  ",
+                "title": "Taylor Swift",
+                "url": "http://www.last.fm/event/3459056+Taylor+Swift+at+Xcel+Energy+Center+on+7+September+2013",
+                "venue": {
+                    "id": "8781187",
+                    "image": [
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/34/45953989.jpg",
+                            "size": "small"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/64/45953989.jpg",
+                            "size": "medium"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/126/45953989.jpg",
+                            "size": "large"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/252/45953989.jpg",
+                            "size": "extralarge"
+                        },
+                        {
+                            "#text": "http://userserve-ak.last.fm/serve/500/45953989/Xcel+Energy+Center.jpg",
+                            "size": "mega"
+                        }
+                    ],
+                    "location": {
+                        "city": "Saint Paul",
+                        "country": "United States",
+                        "geo:point": {
+                            "geo:lat": "44.943807",
+                            "geo:long": "-93.101028"
+                        },
+                        "postalcode": "55102",
+                        "street": "199 West Kellogg Blvd."
+                    },
+                    "name": "Xcel Energy Center",
+                    "phonenumber": "(651) 265-4800",
+                    "url": "http://www.last.fm/venue/8781187+Xcel+Energy+Center",
+                    "website": "http://www.xcelenergycenter.com/"
+                },
+                "website": ""
+            }
+        ]
+    }
+}
